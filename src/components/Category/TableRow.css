@@ -1,0 +1,18 @@
+.category-table-row{
+    background-color: #EDE4E0;
+    color: black;
+    border-radius: 3px;
+    padding: 15px 20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-bottom: 5px;
+}
+
+.fa-trash{
+    /* text-align: center; */
+    color: rgb(184, 7, 7);
+    
+}
+category-table-row i{
+    padding: 0 20px 0 20px;
+}

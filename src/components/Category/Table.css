@@ -1,0 +1,22 @@
+.category-table{
+    padding: 2rem;
+    margin: 2rem auto;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.table-header{
+    background-color : #070708;
+    color : white;
+    border-radius: 3px;
+    padding: 25px 30px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.table-header th{
+    padding: 0 60px 0 60px;
+}
